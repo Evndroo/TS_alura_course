@@ -1,0 +1,11 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "target": "ES6",
+        "outDir": "src/js",
+        "noEmitOnError": true
+    },
+    "include": [
+        "src/ts/**/*"
+    ]
+}
